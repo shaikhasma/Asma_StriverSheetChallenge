@@ -2,7 +2,7 @@
     linkedin.com/in/asma-shaikh-411137b1
     Rotate Image by 90 degree
  */
-class Solution {
+class RotateMatrix90Degree_Clockwise {
     public void rotate(int[][] matrix) {
         //Step 1. Transpose row to column
          transposeRowToCol(matrix);
